@@ -2,7 +2,8 @@ package com.sooriya;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
-
+//@PostConstruct - init method
+//@PreDestroy - destroy method
 import org.springframework.stereotype.Component;
 
 @Component
